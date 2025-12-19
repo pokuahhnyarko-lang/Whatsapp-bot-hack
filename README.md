@@ -68,3 +68,5 @@ Features Added:
 · User session management
 
 The bot is completely self-contained with no external API keys needed. It uses pattern matching, simple AI logic, and learning capabilities to provide intelligent responses. The bot will improve over time as it learns from interactions!![Screenshot_20251219_183729_Termux](https://github.com/user-attachments/assets/d45593b2-6963-4a30-9997-e7004d7dcefa)
+
+CREATED BY:@(*KING-BLESS XMD*)
