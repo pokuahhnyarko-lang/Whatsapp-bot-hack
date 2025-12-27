@@ -67,6 +67,23 @@ Features Added:
 · Logging system
 · User session management
 
-The bot is completely self-contained with no external API keys needed. It uses pattern matching, simple AI logic, and learning capabilities to provide intelligent responses. The bot will improve over time as it learns from interactions!![Screenshot_20251219_183729_Termux](https://github.com/user-attachments/assets/d45593b2-6963-4a30-9997-e7004d7dcefa)
+The bot is completely self-contained with no external API keys needed. It uses pattern matching, simple AI logic, and learning capabilities to provide intelligent responses. The bot will improve over time as it learns from interactions!!
+/*
+ * ETHICAL USAGE PLEDGE
+ * 
+ * I pledge to use this code only for:
+ * 1. Educational learning
+ * 2. Personal automation
+ * 3. Non-commercial purposes
+ * 4. Respecting all terms of service
+ * 5. Not violating any laws
+ * 
+ * I understand that misuse may result in:
+ * - Account suspension
+ * - Legal action
+ * - Ethical violations
+ */
+ ✅ PROPER FORK PROCEDURE
+[Screenshot_20251219_183729_Termux](https://github.com/user-attachments/assets/d45593b2-6963-4a30-9997-e7004d7dcefa)
 
 CREATED BY:@(*KING-BLESS XMD*)
