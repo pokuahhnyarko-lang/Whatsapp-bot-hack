@@ -61,7 +61,7 @@ class SimpleAI {
       'date|today\'s date': [`Today is ${new Date().toDateString()}`],
       'weather': ['I\'m a bot, not a weather station! 🌤️ But you can check your local weather app.'],
       'love you|i love you': ['Aww, thank you! ❤️', 'You\'re sweet!'],
-      'who created you|who made you': ['I was created by KING_BLESS! 👑', 'KING_BLESS is my creator!'],
+      'who created you|who made you': ['I was created by KINGSLEY Nyarko! 👑', 'KINGSLEY Nyarko is my creator!'],
       'what can you do|features': ['I can chat, tell jokes, remember things, and much more! Check the menu.'],
       'hi|hi bot|hello bot': ['Hello! 👋 Type *menu* to see what I can do!'],
     };
@@ -179,7 +179,7 @@ class MenuSystem {
       info: `*🤖 BOT INFORMATION* 🤖\n\n` +
             `*Name:* KING_BLESS AI Assistant\n` +
             `*Version:* 2.0.0\n` +
-            `*Creator:* KING_BLESS\n` +
+            `*Creator:* KINGSLEY NYARKO\n` +
             `*Platform:* WhatsApp\n` +
             `*AI Engine:* Pattern-based + Learning\n` +
             `*Status:* Online & Learning 🟢\n\n` +
